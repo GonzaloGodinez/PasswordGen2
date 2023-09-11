@@ -25,7 +25,7 @@ function writePassword() {
    if (confirm("Would you like to include special characters?")){
     // "add special characters criteria"
     // pwdvalues += "!@#$%^&*()"
-      pwdvalues +=" !#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+      pwdvalues +="!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
      }
     if (!pwdvalues){ 
       alert("non acceptable values selected")      

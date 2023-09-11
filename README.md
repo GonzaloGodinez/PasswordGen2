@@ -25,7 +25,7 @@ If an erroneous lenght or incorrect criteria is selected a warning mesagge will 
 **Usage**
 
 # JavaScript initial coding steps
-!["Password Generator"](./Develop/Assets/Password-img.png)
+!["Password Generator"](./Assets/Password-img.png)
 
 License
 
